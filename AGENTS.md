@@ -1,5 +1,7 @@
 # Now in Android Project
 
+[English](AGENTS.md) | [简体中文](AGENTS.zh-CN.md)
+
 Now in Android is a native Android mobile application written in Kotlin. It provides regular news
 about Android development. Users can choose to follow topics, be notified when new content is
 available, and bookmark items.
